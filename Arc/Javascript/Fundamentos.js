@@ -60,3 +60,6 @@ JS pone por defecto el valor o texto undefined
 activar para usar si o si valores como let o const
 */
 
+/*-Input
+prompt (esto sirve para que la consola reciba datos escritos por los visitantes de la pagina)
+*/
