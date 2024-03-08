@@ -1,5 +1,4 @@
 # Training-Arc
 
-First Steps 
+First Steps Javascript/Html
 
-Markdown Sintaxis
