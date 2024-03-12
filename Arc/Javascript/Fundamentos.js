@@ -63,3 +63,19 @@ activar para usar si o si valores como let o const
 /*-Input
 prompt (esto sirve para que la consola reciba datos escritos por los visitantes de la pagina)
 */
+
+
+"use strict"
+ const username = prompt("Enter your full name");
+  switch (username){
+    case username:
+     document.write("Hello User");
+      break;
+        default:
+         document.write("Hello "+ username + "Nice to see you again");
+          
+
+
+
+
+}
